@@ -1,6 +1,6 @@
 package homework2;
 
-public class Circle implements shape {
+public class Circle implements Shape {
 	
 	public double calculateArea()
 	{

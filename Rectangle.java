@@ -1,6 +1,6 @@
 package homework2;
 
-public class Rectangle implements shape {
+public class Rectangle implements Shape {
 	
 	public double calculateArea()
 	{

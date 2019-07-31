@@ -1,6 +1,6 @@
 package homework2;
 
-public class Triangle implements shape {
+public class Triangle implements Shape {
 	
 	public double calculateArea()
 	{
